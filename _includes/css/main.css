@@ -291,6 +291,10 @@ nav ul li:hover a, nav ul li.active a {
   flex: 1;
 }
 
+.bit-widget {
+  font: 16px/21px "europa",sans-serif !important;
+}
+
 .bit-widget-container a { 
   border-bottom: none !important;
 } 
