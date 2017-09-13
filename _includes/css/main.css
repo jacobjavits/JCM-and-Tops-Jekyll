@@ -250,7 +250,7 @@ nav ul li:hover a, nav ul li.active a {
 }
 
 .section.p-intro form {
-  margin-top: 20px;
+  margin-top: 20px; 
 }
 
 .section.p-intro form .email {
@@ -380,7 +380,7 @@ nav ul li:hover a, nav ul li.active a {
   nav ul li,
   nav .store-link {
     min-width:0px !important;
-    padding: 0 5px;
+    padding: 10px 5px;
     line-height:40px;
   }
   nav ul li.p-intro a:before {
