@@ -280,6 +280,10 @@ nav ul li:hover a, nav ul li.active a {
     padding-top: 140px;
 }
 
+.bit-offers {
+  color: #fff !important;
+}
+
 .section.p-press .container {
   width: 100%;
 }
