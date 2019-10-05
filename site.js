@@ -93,3 +93,78 @@ $(document).ready(function (){
 
 });
 
+/** 
+ * This is what generates the list of shows
+ */
+
+fetch('https://raw.githubusercontent.com/jacobjavits/jacobjavits.github.io/master/shows.json')
+    .then(function (response) {
+    return response.json();
+    })
+    .then(function (data) {
+    appendData(data);
+    })
+    .catch(function (err) {
+    console.log('Error: ' + err)
+    });
+
+function appendData(data) {
+    var showContainer = document.querySelector('.show-list');
+
+    for (var i = 0; i < data.length; i++) {
+    
+    /** Create individual show div and add class */
+    var show = document.createElement('div');
+    show.setAttribute('class', 'show');
+
+    var today = new Date();
+    console.log(today.setHours(0, 0, 0, 0));
+    var date = new Date( data[i].date );
+
+    console.log( date.setHours(0, 0, 0, 0) );
+    
+    show.innerHTML = '';
+
+    if( date.setHours(0, 0, 0, 0) >= today.setHours(0, 0, 0, 0) ) {
+
+        show.innerHTML += `
+            <time class="show__date">${data[i].date} @ ${data[i].time}</time>
+            `;
+
+        if(data[i].solo_or_band != 'band') {
+            show.innerHTML += `<p class="show__badge"><span class="">${data[i].solo_or_band}</span></p>`;
+        }
+
+        show.innerHTML += `
+            <p class="show__city">
+                <strong>${data[i].city}, ${data[i].state}</strong><br/>
+                ${data[i].venue}
+            </p>
+            `;
+
+        if( data[i].otherbands != '') {
+            show.innerHTML += `
+            <p class="show__otherbands"><small>w/ ${data[i].otherbands}</small></p>
+            `;
+        }
+
+        if( data[i].link != '') {
+            show.innerHTML += `
+            <p class="show__link">
+                <a class="button" href="${data[i].link}">More Info</a>
+            </p>
+            `;
+        } else {
+            show.innerHTML += `
+            <p class="show__link">
+                <small>Contact us for info</small>
+            </p>
+            `;
+        }
+
+        showContainer.appendChild(show);
+        }
+        
+    }
+}
+
