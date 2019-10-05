@@ -8,5 +8,35 @@
     "link":"",
     "otherbands":"Peaer, The Water Cycle, Downy Woodpecker, Emmett McCleary",
     "solo_or_band":"band"
+  },
+  {
+    "date":"October 19, 2019",
+    "venue":"Cozy Coffin",
+    "city":"Manchester",
+    "state":"NH",
+    "time":"8pm",
+    "link":"https://www.facebook.com/events/917967538537651/",
+    "otherbands":"Trashboy, Trent, Black Hatch",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"October 25, 2019",
+    "venue":"Pete's Candy Store",
+    "city":"Brooklyn",
+    "state":"NY",
+    "time":"9pm",
+    "link":"https://www.facebook.com/events/2446960835388692/",
+    "otherbands":"John Shakespeare",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"October 26, 2019",
+    "venue":"The Jungle",
+    "city":"Brooklyn",
+    "state":"NY",
+    "time":"8pm",
+    "link":"https://www.facebook.com/events/396335171077002/",
+    "otherbands":"Dutch Tulips, Today Junior, Dear Forbidden",
+    "solo_or_band":"band"
   }
 ]
