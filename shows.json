@@ -40,6 +40,16 @@
     "solo_or_band":"band"
   },
   {
+    "date":"November 1, 2019",
+    "venue":"Remedy Music",
+    "city":"Worcester",
+    "state":"MA",
+    "time":"8pm",
+    "link":"",
+    "otherbands":"",
+    "solo_or_band":"band"
+  },
+  {
     "date":"November 2, 2019",
     "venue":"Stone Cow Brewery",
     "city":"Barre",
@@ -48,5 +58,115 @@
     "link":"https://www.carterandstevensfarm.com/events",
     "otherbands":"",
     "solo_or_band":"band"
+  },
+  {
+    "date":"November 4, 2019",
+    "venue":"Chateau Shows",
+    "city":"Albany",
+    "state":"NY",
+    "time":"8pm",
+    "link":"",
+    "otherbands":"",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"November 5, 2019",
+    "venue":"Mothership",
+    "city":"Woodstock",
+    "state":"NY",
+    "time":"7pm",
+    "link":"https://www.facebook.com/groups/1437393376570445/",
+    "otherbands":"",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"November 6, 2019",
+    "venue":"Duende",
+    "city":"Buffalo",
+    "state":"NY",
+    "time":"TBA",
+    "link":"",
+    "otherbands":"",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"November 7, 2019",
+    "venue":"The Union",
+    "city":"Athens",
+    "state":"OH",
+    "time":"8pm",
+    "link":"https://www.theunionbaroh.com/events",
+    "otherbands":"",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"November 9, 2019",
+    "venue":"Hatchet House",
+    "city":"Kalamazoo",
+    "state":"MI",
+    "time":"8pm",
+    "link":"",
+    "otherbands":"",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"November 10, 2019",
+    "venue":"Gman Tavern",
+    "city":"Chicago",
+    "state":"IL",
+    "time":"7:00pm",
+    "link":"https://gmantavern.com/event/hemhora-the-glass-band-mint-mile-jake-mckelvie/",
+    "otherbands":"Mint Mile, Hemhora & the Glass Band",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"November 11, 2019",
+    "venue":"Indie Coffee",
+    "city":"Madison",
+    "state":"WI",
+    "time":"7:00pm",
+    "link":"https://www.indiecoffee.net",
+    "otherbands":"The Heligoats",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"November 12, 2019",
+    "venue":"Kitty Cat Klub",
+    "city":"Minneapolis",
+    "state":"MN",
+    "time":"TBA",
+    "link":"https://www.kittycatklub.net",
+    "otherbands":"",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"November 14, 2019",
+    "venue":"House Show",
+    "city":"Des Moines",
+    "state":"IA",
+    "time":"6:30pm",
+    "link":"https://www.eventbrite.com/e/jake-mckelvie-unplugged-house-concert-tickets-73603815995",
+    "otherbands":"",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"November 15, 2019",
+    "venue":"The Livery",
+    "city":"St. Louis",
+    "state":"MO",
+    "time":"8:00pm",
+    "link":"",
+    "otherbands":"",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"November 18, 2019",
+    "venue":"House Show",
+    "city":"Durham",
+    "state":"NC",
+    "time":"7:00pm",
+    "link":"",
+    "otherbands":"",
+    "solo_or_band":"solo"
   }
 ]
