@@ -40,16 +40,6 @@
     "solo_or_band":"band"
   },
   {
-    "date":"November 1, 2019",
-    "venue":"Remedy Music",
-    "city":"Worcester",
-    "state":"MA",
-    "time":"8pm",
-    "link":"",
-    "otherbands":"",
-    "solo_or_band":"band"
-  },
-  {
     "date":"November 2, 2019",
     "venue":"Stone Cow Brewery",
     "city":"Barre",
@@ -66,16 +56,6 @@
     "state":"NY",
     "time":"8pm",
     "link":"",
-    "otherbands":"",
-    "solo_or_band":"solo"
-  },
-  {
-    "date":"November 5, 2019",
-    "venue":"Mothership",
-    "city":"Woodstock",
-    "state":"NY",
-    "time":"7pm",
-    "link":"https://www.facebook.com/groups/1437393376570445/",
     "otherbands":"",
     "solo_or_band":"solo"
   },
@@ -134,9 +114,9 @@
     "venue":"Kitty Cat Klub",
     "city":"Minneapolis",
     "state":"MN",
-    "time":"TBA",
+    "time":"8:30",
     "link":"https://www.kittycatklub.net",
-    "otherbands":"",
+    "otherbands":"Bella Yaga, P. Larkin",
     "solo_or_band":"solo"
   },
   {
@@ -160,6 +140,16 @@
     "solo_or_band":"solo"
   },
   {
+    "date":"November 17, 2019",
+    "venue":"House Show",
+    "city":"Nashville",
+    "state":"TN",
+    "time":"8:00pm",
+    "link":"",
+    "otherbands":"John Shakespear, Carla Diaz",
+    "solo_or_band":"solo"
+  },
+  {
     "date":"November 18, 2019",
     "venue":"House Show",
     "city":"Durham",
@@ -168,5 +158,35 @@
     "link":"",
     "otherbands":"",
     "solo_or_band":"solo"
+  },
+  {
+    "date":"November 20, 2019",
+    "venue":"Asbury Hotel",
+    "city":"Asbury Park",
+    "state":"NJ",
+    "time":"8:00pm",
+    "link":"",
+    "otherbands":"",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"November 22, 2019",
+    "venue":"The Footlight",
+    "city":"Queens",
+    "state":"NY",
+    "time":"9:00pm",
+    "link":"",
+    "otherbands":"Miracle Sweepstakes (album release), Railings, Gorgeous",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"November 23, 2019",
+    "venue":"Never Get to Be Cool",
+    "city":"New Haven",
+    "state":"CT",
+    "time":"8:00pm",
+    "link":"",
+    "otherbands":"",
+    "solo_or_band":"band"
   }
 ]
