@@ -64,7 +64,7 @@
     "venue":"Duende",
     "city":"Buffalo",
     "state":"NY",
-    "time":"TBA",
+    "time":"8pm",
     "link":"",
     "otherbands":"",
     "solo_or_band":"solo"
@@ -100,21 +100,11 @@
     "solo_or_band":"solo"
   },
   {
-    "date":"November 11, 2019",
-    "venue":"Indie Coffee",
-    "city":"Madison",
-    "state":"WI",
-    "time":"7:00pm",
-    "link":"https://www.indiecoffee.net",
-    "otherbands":"The Heligoats",
-    "solo_or_band":"solo"
-  },
-  {
     "date":"November 12, 2019",
     "venue":"Kitty Cat Klub",
     "city":"Minneapolis",
     "state":"MN",
-    "time":"8:30",
+    "time":"8:30pm",
     "link":"https://www.facebook.com/events/2736761576389786/",
     "otherbands":"Bella Yaga, P. Larkin",
     "solo_or_band":"solo"
