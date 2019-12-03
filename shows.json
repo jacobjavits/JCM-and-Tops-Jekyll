@@ -195,7 +195,7 @@
     "city":"Burlington",
     "state":"VT",
     "time":"9:00pm",
-    "link":"",
+    "link":"https://www.facebook.com/events/1358988534280143/",
     "otherbands":"A Box of Stars",
     "solo_or_band":"solo"
   },
@@ -238,6 +238,6 @@
     "time":"8:00pm",
     "link":"https://www.obrienspubboston.com/",
     "otherbands":"Tyler Berd & His Deputies, Time & Place",
-    "solo_or_band":"solo"
+    "solo_or_band":"band"
   }
 ]
