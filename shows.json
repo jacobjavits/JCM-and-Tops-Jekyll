@@ -56,7 +56,7 @@
     "state":"NY",
     "time":"8pm",
     "link":"",
-    "otherbands":"",
+    "otherbands":"Jenali Sei, Pink Nois, The Obsessives",
     "solo_or_band":"solo"
   },
   {
@@ -66,7 +66,7 @@
     "state":"NY",
     "time":"8pm",
     "link":"",
-    "otherbands":"",
+    "otherbands":"Jungle Steve",
     "solo_or_band":"solo"
   },
   {
@@ -76,7 +76,7 @@
     "state":"OH",
     "time":"8pm",
     "link":"https://www.theunionbaroh.com/events",
-    "otherbands":"",
+    "otherbands":"Natural Rat, Cutler Station, No Stars",
     "solo_or_band":"solo"
   },
   {
@@ -116,7 +116,7 @@
     "state":"MO",
     "time":"8:00pm",
     "link":"",
-    "otherbands":"",
+    "otherbands":"Stephen Wolf",
     "solo_or_band":"solo"
   },
   {
@@ -146,7 +146,7 @@
     "state":"NJ",
     "time":"8:00pm",
     "link":"",
-    "otherbands":"",
+    "otherbands":"Avery Mandeville, Fake Pockets",
     "solo_or_band":"solo"
   },
   {
@@ -156,7 +156,7 @@
     "state":"NY",
     "time":"9:00pm",
     "link":"https://www.facebook.com/events/722760014893063/",
-    "otherbands":"Miracle Sweepstakes (album release), Railings, Gorgeous",
+    "otherbands":"Miracle Sweepstakes, Railings, Gorgeous",
     "solo_or_band":"band"
   },
   {
@@ -166,7 +166,78 @@
     "state":"CT",
     "time":"8:00pm",
     "link":"",
+    "otherbands":"Winnebago Vacation, Knife Kickers, Skating",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"November 27, 2019",
+    "venue":"Stone Cow Brewery",
+    "city":"Barre",
+    "state":"MA",
+    "time":"4:00pm",
+    "link":"",
     "otherbands":"",
     "solo_or_band":"band"
+  },
+  {
+    "date":"December 14, 2019",
+    "venue":"Hotel Vernon",
+    "city":"Worcester",
+    "state":"MA",
+    "time":"9:00pm",
+    "link":"",
+    "otherbands":"Eye Witness, Tysk Tysk Task",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"December 15, 2019",
+    "venue":"Light Club Lamp Shop",
+    "city":"Burlington",
+    "state":"VT",
+    "time":"9:00pm",
+    "link":"",
+    "otherbands":"A Box of Stars",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"January 2, 2020",
+    "venue":"Book & Bar",
+    "city":"Portstmouth",
+    "state":"NH",
+    "time":"TBA",
+    "link":"",
+    "otherbands":"Tyler Berd",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"January 3, 2020",
+    "venue":"Good Orneing",
+    "city":"Worcester",
+    "state":"MA",
+    "time":"7:00pm",
+    "link":"https://www.facebook.com/events/2480412808910523/",
+    "otherbands":"Tyler Berd, Bettny Roze, Lauri McNamara",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"January 4, 2020",
+    "venue":"Pete's Candy Store",
+    "city":"Brooklyn",
+    "state":"NY",
+    "time":"8:00pm",
+    "link":"https://www.petescandystore.com/calendar",
+    "otherbands":"Tyler Berd",
+    "solo_or_band":"solo"
+  }
+  ,
+  {
+    "date":"January 5, 2020",
+    "venue":"O'Briens' Pub",
+    "city":"Allston",
+    "state":"MA",
+    "time":"8:00pm",
+    "link":"https://www.obrienspubboston.com/",
+    "otherbands":"Tyler Berd & His Deputies, Time & Place",
+    "solo_or_band":"solo"
   }
 ]
