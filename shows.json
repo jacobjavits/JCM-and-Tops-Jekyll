@@ -238,8 +238,7 @@
     "link":"https://www.petescandystore.com/calendar",
     "otherbands":"Tyler Berd",
     "solo_or_band":"solo"
-  }
-  ,
+  },
   {
     "date":"January 5, 2020",
     "venue":"O'Briens' Pub",
@@ -249,5 +248,35 @@
     "link":"https://www.obrienspubboston.com/",
     "otherbands":"Tyler Berd & His Deputies, Time & Place",
     "solo_or_band":"band"
+  },
+  {
+    "date":"January 9, 2020",
+    "venue":"Asbestos Farm",
+    "city":"Hadley",
+    "state":"MA",
+    "time":"9:00pm",
+    "link":"",
+    "otherbands":"Deer Scout, The Duchess, Jesus Vio, Gilt Head",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"January 16, 2020",
+    "venue":"Crumb Bar",
+    "city":"Littleton",
+    "state":"NH",
+    "time":"8:00pm",
+    "link":"",
+    "otherbands":"A Box of Stars",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"January 18, 2020",
+    "venue":"Wishbone Collective",
+    "city":"Winooski",
+    "state":"VT",
+    "time":"8:00pm",
+    "link":"",
+    "otherbands":"A Box of Stars, Old Sky",
+    "solo_or_band":"solo"
   }
 ]
