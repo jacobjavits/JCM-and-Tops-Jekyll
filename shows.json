@@ -280,6 +280,16 @@
     "solo_or_band":"solo"
   },
   {
+    "date":"January 22, 2020",
+    "venue":"The Zoo",
+    "city":"Athens",
+    "state":"OH",
+    "time":"8:00pm",
+    "link":"",
+    "otherbands":"Sneakthief, Captain Chucke",
+    "solo_or_band":"solo"
+  },
+  {
     "date":"January 24, 2020",
     "venue":"The Livery",
     "city":"St. Louis",
@@ -287,6 +297,16 @@
     "time":"8:00pm",
     "link":"",
     "otherbands":"",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"January 26, 2020",
+    "venue":"Plus On Block",
+    "city":"St. Paul",
+    "state":"MN",
+    "time":"8:00pm",
+    "link":"https://www.facebook.com/events/210587273302646/",
+    "otherbands":"Daniel Bonespur",
     "solo_or_band":"solo"
   }
 ]
