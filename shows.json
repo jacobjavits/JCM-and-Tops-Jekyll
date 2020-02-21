@@ -308,5 +308,165 @@
     "link":"https://www.facebook.com/events/210587273302646/",
     "otherbands":"Daniel Bonespur",
     "solo_or_band":"solo"
+  },
+  {
+    "date":"January 28, 2020",
+    "venue":"Mute City",
+    "city":"Kalamazoo",
+    "state":"MI",
+    "time":"8:00pm",
+    "link":"",
+    "otherbands":"Jimmie Bennett, King Bug",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"February 8, 2020",
+    "venue":"Firehouse",
+    "city":"Worcester",
+    "state":"MA",
+    "time":"8:00pm",
+    "link":"https://www.facebook.com/events/2531394930454272/",
+    "otherbands":"The Committee To Elect Pat Malone, Sasha Musik, Jazz Faculty",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"February 16, 2020",
+    "venue":"Kitty Citty",
+    "city":"Worcester",
+    "state":"MA",
+    "time":"7:00pm",
+    "link":"https://www.facebook.com/events/768257780331177/",
+    "otherbands":"Looks Like Mountains, Comet Pond, Moshi",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"February 28, 2020",
+    "venue":"Cafe Nine",
+    "city":"New Haven",
+    "state":"CT",
+    "time":"9:00pm",
+    "link":"https://www.facebook.com/events/594231998024135/",
+    "otherbands":"Shy, Jason Rule Three",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"February 29, 2020",
+    "venue":"Pet Rescue",
+    "city":"Brooklyn",
+    "state":"NY",
+    "time":"8:00pm",
+    "link":"https://www.facebook.com/events/2434072220178877/",
+    "otherbands":"The Rizzos, The Unders, Sammi Lanzetta",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"March 5, 2020",
+    "venue":"Shaskeen",
+    "city":"Manchester",
+    "state":"NH",
+    "time":"9:00pm",
+    "link":"https://www.facebook.com/events/125421742130215/",
+    "otherbands":"New Neighbors, Ham the Band, Odd Fellows Way",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"March 8, 2020",
+    "venue":"Nick's",
+    "city":"Worcester",
+    "state":"MA",
+    "time":"8:30pm",
+    "link":"",
+    "otherbands":"Bettny Roze",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"March 20, 2020",
+    "venue":"Remedy Music",
+    "city":"Worcester",
+    "state":"MA",
+    "time":"8:00pm",
+    "link":"",
+    "otherbands":"The Furniture, Comet Pond",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"March 21, 2020",
+    "venue":"Hong Kong",
+    "city":"Cambridge",
+    "state":"MA",
+    "time":"8:00pm",
+    "link":"",
+    "otherbands":"The Furniture, Today Junior",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"March 27, 2020",
+    "venue":"Ed's Underground Pub",
+    "city":"Port Orford",
+    "state":"OR",
+    "time":"",
+    "link":"",
+    "otherbands":"Tyler Berd",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"April 1, 2020",
+    "venue":"Crepe Place",
+    "city":"Santa Cruz",
+    "state":"CA",
+    "time":"9:00pm",
+    "link":"https://thecrepeplace.com/events/120954/",
+    "otherbands":"Tyler Berd, Lindsey Wall",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"April 3, 2020",
+    "venue":"Greater Goods",
+    "city":"Ojai",
+    "state":"CA",
+    "time":"7:00pm",
+    "link":"https://greatergoodsojai.org/calendar/",
+    "otherbands":"Tyler Berd",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"April 5, 2020",
+    "venue":"The Mint",
+    "city":"Los Angeles",
+    "state":"CA",
+    "time":"7:00pm",
+    "link":"https://www.themintla.com/e/tyler-berd-jake-mckelvie-jordan-telgenoff-94019383507/",
+    "otherbands":"Tyler Berd, Jordan Telgenoff",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"April 8, 2020",
+    "venue":"Regal Beaver",
+    "city":"Boise",
+    "state":"ID",
+    "time":"",
+    "link":"https://regalbeaverboise.com/",
+    "otherbands":"Tyler Berd",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"April 9, 2020",
+    "venue":"Range Rider",
+    "city":"Enterprise",
+    "state":"OR",
+    "time":"",
+    "link":"",
+    "otherbands":"Tyler Berd",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"April 11, 2020",
+    "venue":"Music Millenium",
+    "city":"Portland",
+    "state":"OR",
+    "time":"5:00pm",
+    "link":"https://musicmillennium.tuneportals.com/InStore",
+    "otherbands":"Tyler Berd",
+    "solo_or_band":"solo"
   }
 ]
