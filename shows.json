@@ -380,93 +380,73 @@
     "solo_or_band":"solo"
   },
   {
-    "date":"March 20, 2020",
-    "venue":"Remedy Music",
+    "date":"July 3, 2021",
+    "venue":"Union Coffee",
+    "city":"Milford",
+    "state":"NH",
+    "time":"5:00pm",
+    "link":"",
+    "otherbands":"Dwarf Cannon",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"July 10, 2021",
+    "venue":"Mike's Secret Garden",
+    "city":"Medford",
+    "state":"MA",
+    "time":"8:00pm",
+    "link":"",
+    "otherbands":"Mike & the Gang, Sunshine (at nite)",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"July 31, 2021",
+    "venue":"Ralph's Rock Diner",
     "city":"Worcester",
     "state":"MA",
-    "time":"8:00pm",
-    "link":"",
-    "otherbands":"The Furniture, Comet Pond",
+    "time":"8:30pm",
+    "link":"https://www.facebook.com/events/175552784548618",
+    "otherbands":"Eye Witness, The True Jacqueline",
     "solo_or_band":"band"
   },
   {
-    "date":"March 21, 2020",
-    "venue":"Hong Kong",
-    "city":"Cambridge",
+    "date":"August 6, 2021",
+    "venue":"Rutland Town Common",
+    "city":"Rutland",
     "state":"MA",
-    "time":"8:00pm",
+    "time":"6:00pm",
     "link":"",
-    "otherbands":"The Furniture, Today Junior",
+    "otherbands":"",
     "solo_or_band":"band"
   },
   {
-    "date":"March 27, 2020",
-    "venue":"Ed's Underground Pub",
-    "city":"Port Orford",
-    "state":"OR",
-    "time":"",
+    "date":"August 6, 2021",
+    "venue":"Rutland Town Common",
+    "city":"Rutland",
+    "state":"MA",
+    "time":"6:00pm",
+    "link":"https://www.townofrutland.org/300th-anniversary-committee/events/30341",
+    "otherbands":"",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"August 11, 2021",
+    "venue":"Princeton Town Common",
+    "city":"Princeton",
+    "state":"MA",
+    "time":"6:00pm",
     "link":"",
-    "otherbands":"Tyler Berd",
-    "solo_or_band":"solo"
+    "otherbands":"",
+    "solo_or_band":"band"
   },
   {
-    "date":"April 1, 2020",
-    "venue":"Crepe Place",
-    "city":"Santa Cruz",
-    "state":"CA",
-    "time":"9:00pm",
-    "link":"https://thecrepeplace.com/events/120954/",
-    "otherbands":"Tyler Berd, Lindsey Wall",
-    "solo_or_band":"solo"
-  },
-  {
-    "date":"April 3, 2020",
-    "venue":"Greater Goods",
-    "city":"Ojai",
-    "state":"CA",
-    "time":"7:00pm",
-    "link":"https://greatergoodsojai.org/calendar/",
-    "otherbands":"Tyler Berd",
-    "solo_or_band":"solo"
-  },
-  {
-    "date":"April 5, 2020",
-    "venue":"The Mint",
-    "city":"Los Angeles",
-    "state":"CA",
-    "time":"7:00pm",
-    "link":"https://www.themintla.com/e/tyler-berd-jake-mckelvie-jordan-telgenoff-94019383507/",
-    "otherbands":"Tyler Berd, Jordan Telgenoff",
-    "solo_or_band":"solo"
-  },
-  {
-    "date":"April 8, 2020",
-    "venue":"Regal Beaver",
-    "city":"Boise",
-    "state":"ID",
-    "time":"",
-    "link":"https://regalbeaverboise.com/",
-    "otherbands":"Tyler Berd",
-    "solo_or_band":"solo"
-  },
-  {
-    "date":"April 9, 2020",
-    "venue":"Range Rider",
-    "city":"Enterprise",
-    "state":"OR",
-    "time":"",
-    "link":"",
-    "otherbands":"Tyler Berd",
-    "solo_or_band":"solo"
-  },
-  {
-    "date":"April 11, 2020",
-    "venue":"Music Millenium",
-    "city":"Portland",
-    "state":"OR",
-    "time":"5:00pm",
-    "link":"https://musicmillennium.tuneportals.com/InStore",
-    "otherbands":"Tyler Berd",
-    "solo_or_band":"solo"
+    "date":"August 21, 2021",
+    "venue":"The Root",
+    "city":"Sprakers",
+    "state":"NY",
+    "time":"8:00pm",
+    "link":"https://www.therootcommunity.org/limbsnapping",
+    "otherbands":"",
+    "solo_or_band":"band"
   }
 ]
