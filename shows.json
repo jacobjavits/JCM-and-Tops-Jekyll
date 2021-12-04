@@ -438,5 +438,69 @@
     "link":"https://www.therootcommunity.org/limbsnapping",
     "otherbands":"",
     "solo_or_band":"band"
+  },
+  {
+    "date":"September 4, 2021",
+    "venue":"Keene Music Festival",
+    "city":"Keene",
+    "state":"NH",
+    "time":"8:00pm",
+    "otherbands":"",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"September 11, 2021",
+    "venue":"Votrubapalooza",
+    "city":"Rutland",
+    "state":"MA",
+    "time":"7:00pm",
+    "otherbands":"",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"October 2, 2021",
+    "venue":"Barre Town Common",
+    "city":"Barre",
+    "state":"MA",
+    "time":"11:30am",
+    "otherbands":"Say Uncle",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"October 13, 2021",
+    "venue":"Gardner Area League of Artists",
+    "city":"Gardner",
+    "state":"MA",
+    "time":"7:00pm",
+    "link": "https://galagardner.org/",
+    "otherbands":"Jared Moore",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"October 30, 2021",
+    "venue":"Nick's Bar",
+    "city":"Worcester",
+    "state":"MA",
+    "time":"8:00pm",
+    "otherbands":"Shaun Connelly, Troye Lonely",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"November 14, 2021",
+    "venue":"Bodacious Backyard",
+    "city":"Worcester",
+    "state":"MA",
+    "time":"2:00pm",
+    "otherbands":"Brook Pridemore, Troye Lonely",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"November 24, 2021",
+    "venue":"Stone Cow Brewery",
+    "city":"Barre",
+    "state":"MA",
+    "time":"6:00pm",
+    "otherbands":"",
+    "solo_or_band":"band"
   }
 ]
